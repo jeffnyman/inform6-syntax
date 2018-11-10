@@ -1,0 +1,19 @@
+{
+  "name": "inform6-syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme for Inform 6 in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffnyman/inform6-syntax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffnyman/inform6-syntax/issues"
+  },
+  "theme": "syntax",
+  "license": "MIT",
+}
